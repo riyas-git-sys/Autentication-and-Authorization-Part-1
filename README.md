@@ -1,5 +1,5 @@
 # Authentication & Authorization 
-https://authp1riyas.ccbp.tech
+demo: https://authp1riyas.ccbp.tech
 
 - Client Server Communication
   - Authentication & Authorization
