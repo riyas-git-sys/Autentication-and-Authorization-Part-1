@@ -1,5 +1,9 @@
 # Authentication & Authorization Part 1
-demo: https://authp1riyas.ccbp.tech
+## Click Here For [Demo](https://authp1riyas.ccbp.tech)
+### note for demo
+username: rahul  
+password: rahul@2021  
+you can user only this authorization to login
 
 also try this: https://authp1riyas.ccbp.tech/login
 
